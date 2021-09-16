@@ -1,3 +1,6 @@
+<section>
+<h1> THAVHA TSIWANA </h1>
+</section>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/thavha/thavha.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
