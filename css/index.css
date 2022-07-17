@@ -36,6 +36,9 @@ footer {
     background-color: black;
     height: 80px;
     align-items: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
   }
   footer a i{
     color :rgb(63, 101, 228)
