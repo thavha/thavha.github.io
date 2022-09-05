@@ -44,9 +44,6 @@
 
 }
 
-
-
-
 .header a:hover {
 
   background-color: #040f50;
@@ -61,14 +58,11 @@
 
 }
 
-
-
 .header a:not(:first-child)  {
 
   float: right;
 
 }
-
 
 
 .header .icon{ display: none;}
