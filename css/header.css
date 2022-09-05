@@ -46,19 +46,12 @@
 
 
 
-.header a:hover {
 
-  background-color: #040f50;
-  color: white;
-
-}
 
 
 
 .header a.active {
-
   background-color: #626ca3;
-
   color: white;
 
 }
