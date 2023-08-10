@@ -102,4 +102,26 @@ margin: 0 auto;
     }
     
 } 
+/* Keep the existing footer styles */
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Ensure the body takes at least the viewport height */
+  margin: 0;
+  /* Other styles */
+}
+
+.gridContainer {
+  /* Other styles */
+}
+
+/* ... Other styles ... */
+
+footer {
+  /* Keep the existing footer styles */
+  position: fixed;
+  bottom: 0;
+}
+
 
