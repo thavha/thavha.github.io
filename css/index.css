@@ -1,9 +1,12 @@
 body {
+ display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Ensure the body takes at least the viewport height */
  
-  display: grid;
+  /*display: grid; */
   color:beige;
   width: 100%;
-  margin:0px;
+  margin:0;
  font-size: 110%;
   background-image:
       url('../images/blog_pictures2F25550-scaled.jpg');
@@ -40,9 +43,10 @@ footer {
     background-color: black;
     height: 80px;
     align-items: center;
-    bottom: 0%;
+    bottom: 0;
     width: 100%;
     text-align: center;
+    position: fixed;
     
     
   }
@@ -102,26 +106,3 @@ margin: 0 auto;
     }
     
 } 
-/* Keep the existing footer styles */
-
-body {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh; /* Ensure the body takes at least the viewport height */
-  margin: 0;
-  /* Other styles */
-}
-
-.gridContainer {
-  /* Other styles */
-}
-
-/* ... Other styles ... */
-
-footer {
-  /* Keep the existing footer styles */
-  position: fixed;
-  bottom: 0;
-}
-
-
