@@ -50,9 +50,9 @@ footer {
     bottom: 0;
     width: 100%;
     text-align: center;
-    position: fixed;
-    
-    
+    position: relative;
+    clear: both;
+    margin-top: auto;
   }
   footer a i{
     color :rgb(63, 101, 228);
