@@ -32,7 +32,11 @@ ul li {
 .content div h1{
     text-align: center;
     
-    
+.wrapper {
+  flex: 1; /* Let the wrapper grow to fill available space */
+  display: flex;
+  flex-direction: column;
+}
     
 }
 
